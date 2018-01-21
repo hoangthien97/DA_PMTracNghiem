@@ -1,0 +1,155 @@
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.exe.config
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.exe
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.pdb
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\en-US\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\vi\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\vai\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\en-SB\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\bin\Release\ve-ZA\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMain.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMenu.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmPreResult.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.Properties.Resources.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.vai.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMain.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMain.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.en-SB.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.ve-ZA.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.csproj.GenerateResource.Cache
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.exe.licenses
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\en-US\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\vi\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\vai\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\en-SB\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\ve-ZA\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.exe
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem V2.2\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.pdb
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.exe.config
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.exe
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.pdb
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.exe
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.pdb
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\en-US\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\vi\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\vai\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\en-SB\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\bin\Release\ve-ZA\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmExam.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMain.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMenu.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmPreResult.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.Properties.Resources.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.vai.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMain.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMain.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.en-SB.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.en-US.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.ve-ZA.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.vi.resources
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.csproj.GenerateResource.Cache
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.exe.licenses
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\en-US\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\vi\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\vai\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\en-SB\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\ve-ZA\PMTracNghiem.resources.dll
+C:\Users\HAN\Desktop\CNPM\PMTracNghiem V3.0 12_1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmAnswer.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\bin\Release\PMTracNghiem.exe.config
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.exe
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.pdb
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmAnswer.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmExam.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMenu.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmPreResult.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.Properties.Resources.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmChangePass.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.vai.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmLogin.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmMembers.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmQuestion.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmRegister.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmResult.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSearch.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmSoftware.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTeamDev.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.en-SB.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.en-US.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.ve-ZA.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.frmTest.vi.resources
+C:\Users\user\Desktop\PMTracNghiem_17.1_Ver.1\PMTracNghiem\PMTracNghiem\obj\Release\PMTracNghiem.csproj.GenerateResource.Cache
