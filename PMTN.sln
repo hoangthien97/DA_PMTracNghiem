@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMTracNghiem", "PMTracNghiem\PMTracNghiem.csproj", "{38DB7EE8-013D-47B0-8C18-C1ED47AD444D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DB7EE8-013D-47B0-8C18-C1ED47AD444D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DB7EE8-013D-47B0-8C18-C1ED47AD444D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DB7EE8-013D-47B0-8C18-C1ED47AD444D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DB7EE8-013D-47B0-8C18-C1ED47AD444D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79A6E8D-93BF-4B05-82DF-3230E0100FDA}
+	EndGlobalSection
+EndGlobal
